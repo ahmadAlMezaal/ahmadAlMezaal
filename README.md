@@ -4,18 +4,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ahmad%20Al%20Mezaal&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Building%20things%20that%20don%27t%20break%20(usually)&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Based+in+London+%F0%9F%87%AC%F0%9F%87%A7;1%25+better+every+day+%E2%80%94+compounding+is+real+%F0%9F%93%88;Building+apps+people+actually+want+to+use+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Based+in+London+%F0%9F%87%AC%F0%9F%87%A7;1%25+better+every+day+%E2%80%94+compounding+is+real+%F0%9F%93%88;Building+apps+people+actually+want+to+use+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
-
 <!-- FRIENDS WAVE GIF -->
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250" alt="Friends wave"/>
+<img src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width="250" alt="Friends PIVOT sofa"/>
 
+<br/>
 <br/>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 <br/>
-*"Then, mass message your friends to download the app."* — Me
+*"Could I BE writing any more side projects?"* — Also me
 
 <br/><br/>
 
@@ -111,7 +111,7 @@ const ahmad = {
 <br/><br/>
 
 <!-- SNAKE ANIMATION -->
-## 🐍 Watch the Snake Eat My Contributions
+## 🐍 This Snake Has Better Commit History Than Most
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadAlMezaal/ahmadAlMezaal/output/github-snake-dark.svg" />
@@ -149,8 +149,5 @@ const ahmad = {
 <img src="https://media.giphy.com/media/jOpLbiGmHR9S0/giphy.gif" width="280" alt="Chandler Could This BE"/>
 
 <br/><br/>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>

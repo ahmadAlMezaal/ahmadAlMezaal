@@ -8,8 +8,8 @@
 
 <br/>
 
-<!-- FUN MEME SECTION -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="coding meme"/>
+<!-- FRIENDS WAVE GIF -->
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250" alt="Friends wave"/>
 
 <br/>
 
@@ -30,9 +30,9 @@ const ahmad = {
     company: "@getborderless",
     location: "London, UK 🇬🇧",
     currentlyBuilding: "Atomic Streaks ⚛️ — habit tracking, the right way",
+    hobbies: ["🥾 Hiking solo", "✈️ Solo travel", "💻 Side projects", "🏋️ Gym"],
+    travelPhilosophy: "If Google Maps says 4 hours, I say 'challenge accepted' 🗺️",
     philosophy: "Ship first. Polish later. Sleep... eventually.",
-    dailyRoutine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"],
-    askMeAbout: ["TypeScript", "React Native", "Node.js", "How habits actually work"],
     funFact: "I mass-messaged everyone I know to beta test my app. No regrets. 😤"
 };
 ```
@@ -40,6 +40,25 @@ const ahmad = {
 <div align="center">
 
 <br/>
+
+<!-- LIFE OUTSIDE THE TERMINAL -->
+## 🌍 When I'm Not Behind a Screen
+
+> I'm probably halfway up a mountain wondering why I didn't bring more water,
+> or solo travelling to a country where I can't read the menu.
+>
+> I believe the best debugging happens on a trail with no Wi-Fi. 🥾
+
+<br/>
+
+<!-- PIVOT GIF -->
+<img src="https://media.giphy.com/media/2OP9jbHFlFPW/giphy.gif" width="280" alt="PIVOT"/>
+
+<br/>
+
+*Me trying to pivot my career, my furniture, and my side project at the same time*
+
+<br/><br/>
 
 <!-- TECH STACK -->
 ## 🛠️ Tech Arsenal
@@ -50,7 +69,7 @@ const ahmad = {
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend & Mobile**
@@ -74,31 +93,6 @@ const ahmad = {
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-<br/>
-
-<!-- GITHUB STATS -->
-## 📊 The Numbers
-
-<br/>
-
-<a href="https://github.com/ahmadAlMezaal">
-  <img width="49%" src="https://streak-stats.demolab.com?user=ahmadAlMezaal&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</a>
-<a href="https://github.com/ahmadAlMezaal">
-  <img width="49%" src="https://github-readme-stats-ahmadalmezaal.vercel.app/api?username=ahmadAlMezaal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ahmadAlMezaal">
-  <img width="40%" src="https://github-readme-stats-ahmadalmezaal.vercel.app/api/top-langs/?username=ahmadAlMezaal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadAlMezaal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="95%"/>
-
 <br/><br/>
 
 <!-- CURRENTLY BUILDING -->
@@ -110,10 +104,9 @@ const ahmad = {
 > Privacy-first. Local-first. Identity-based habit formation.
 > Because your habits are your business, not some server's.
 
-<!-- TODO: Replace these placeholder URLs with your actual links -->
-<a href="https://atomicstreaks.com"><img src="https://img.shields.io/badge/🌐_Website-atomicstreaks.com-58a6ff?style=for-the-badge"/></a>
-<a href="https://apps.apple.com/app/atomic-streaks/id0000000000"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.atomicstreaks"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://atomicstreaks.co"><img src="https://img.shields.io/badge/🌐_atomicstreaks.co-58a6ff?style=for-the-badge"/></a>
+<a href="https://apps.apple.com/app/atomic-streaks/id6756895497"><img src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android_—_Coming_Soon-555555?style=for-the-badge&logo=googleplay&logoColor=white"/>
 
 <br/><br/>
 
@@ -138,11 +131,22 @@ const ahmad = {
 
 <br/><br/>
 
-<!-- MEME FOOTER -->
+<!-- FRIENDS MEME FOOTER -->
+**Me deploying to production on a Friday:**
+
+<img src="https://media.giphy.com/media/HUkOv6BNWc1HO/giphy.gif" width="280" alt="Ross Fine"/>
+
+<br/><br/>
+
 **When the code compiles on the first try:**
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/kFgzrTt798d2w/giphy.gif" width="280" alt="Chandler Dance"/>
+
+<br/><br/>
+
+**Me explaining my side project to people who didn't ask:**
+
+<img src="https://media.giphy.com/media/jOpLbiGmHR9S0/giphy.gif" width="280" alt="Chandler Could This BE"/>
 
 <br/><br/>
 

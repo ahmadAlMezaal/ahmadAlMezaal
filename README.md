@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ahmad%20Al%20Mezaal&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Building%20things%20that%20don%27t%20break%20(usually)&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:264f78,100:58a6ff&height=220&section=header&text=Ahmad%20Al%20Mezaal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Building%20things%20that%20don%27t%20break%20(usually)&descSize=16&descAlignY=55&descColor=e0e0e0" width="100%"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Based+in+London+%F0%9F%87%AC%F0%9F%87%A7;1%25+better+every+day+%E2%80%94+compounding+is+real+%F0%9F%93%88;Building+apps+people+actually+want+to+use+%F0%9F%9A%80" alt="Typing SVG" /></a>
 <br/>
 <br/>

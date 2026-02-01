@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ahmad%20Al%20Mezaal&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Building%20things%20that%20don%27t%20break%20(usually)&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%87%B8%F0%9F%87%BE+Syrian+%F0%9F%87%B1%F0%9F%87%A7+Born+in+Beirut+%F0%9F%87%AC%F0%9F%87%A7+Based+in+London;Writing+code+by+day%2C+debugging+by+night+%F0%9F%8C%99;1%25+better+every+day+%E2%80%94+compounding+is+real+%F0%9F%93%88" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Based+in+London+%F0%9F%87%AC%F0%9F%87%A7;1%25+better+every+day+%E2%80%94+compounding+is+real+%F0%9F%93%88;Building+apps+people+actually+want+to+use+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -29,7 +29,6 @@ const ahmad = {
     role: "Senior Software Engineer",
     company: "@getborderless",
     location: "London, UK 🇬🇧",
-    origin: "Syria 🇸🇾 → Beirut 🇱🇧 → London 🇬🇧",
     currentlyBuilding: "Atomic Streaks ⚛️ — habit tracking, the right way",
     philosophy: "Ship first. Polish later. Sleep... eventually.",
     dailyRoutine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"],
@@ -82,12 +81,18 @@ const ahmad = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmadAlMezaal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ahmadAlMezaal&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<a href="https://github.com/ahmadAlMezaal">
+  <img width="49%" src="https://streak-stats.demolab.com?user=ahmadAlMezaal&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</a>
+<a href="https://github.com/ahmadAlMezaal">
+  <img width="49%" src="https://github-readme-stats-ahmadalmezaal.vercel.app/api?username=ahmadAlMezaal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+</a>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadAlMezaal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<a href="https://github.com/ahmadAlMezaal">
+  <img width="40%" src="https://github-readme-stats-ahmadalmezaal.vercel.app/api/top-langs/?username=ahmadAlMezaal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
 
 <br/><br/>
 
@@ -99,15 +104,18 @@ const ahmad = {
 <!-- CURRENTLY BUILDING -->
 ## 🔥 What I'm Building
 
-<a href="https://github.com/ahmadAlMezaal/atomic-streaks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadAlMezaal&repo=atomic-streaks&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+### ⚛️ Atomic Streaks
 
-> **Atomic Streaks** ⚛️ — A habit tracker built on the principles of *Atomic Habits*.
+> A habit tracker built on the principles of *Atomic Habits*.
 > Privacy-first. Local-first. Identity-based habit formation.
 > Because your habits are your business, not some server's.
 
-<br/>
+<!-- TODO: Replace these placeholder URLs with your actual links -->
+<a href="https://atomicstreaks.com"><img src="https://img.shields.io/badge/🌐_Website-atomicstreaks.com-58a6ff?style=for-the-badge"/></a>
+<a href="https://apps.apple.com/app/atomic-streaks/id0000000000"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.atomicstreaks"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+
+<br/><br/>
 
 <!-- SNAKE ANIMATION -->
 ## 🐍 Watch the Snake Eat My Contributions
@@ -123,25 +131,17 @@ const ahmad = {
 <!-- CONNECT -->
 ## 🤝 Let's Connect
 
-<a href="https://theaam.dev"><img src="https://img.shields.io/badge/Portfolio-theaam.dev-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ahmad-al-mezaal"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Al%20Mezaal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@ahmad.almezaal"><img src="https://img.shields.io/badge/Medium-@ahmad.almezaal-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="mailto:ahmad.hmazaal@gmail.com"><img src="https://img.shields.io/badge/Email-ahmad.hmazaal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=ahmadAlMezaal&color=58a6ff&style=for-the-badge&label=Profile+Views" />
+<a href="https://theaam.dev"><img src="https://img.shields.io/badge/theaam.dev-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmad-al-mezaal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@ahmad.almezaal"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="mailto:ahmad.hmazaal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
 <!-- MEME FOOTER -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/>
-
-<br/>
-
 **When the code compiles on the first try:**
 
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/>
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
 
 <br/><br/>

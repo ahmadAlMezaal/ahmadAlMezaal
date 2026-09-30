@@ -24,7 +24,6 @@
 ```javascript
 const ahmad = {
     role: "Senior Software Engineer",
-    company: "@getborderless",
     location: "London, UK 🇬🇧",
     currentlyBuilding: "Atomic Streaks ⚛️ — habit tracking, the right way",
     hobbies: ["🥾 Hiking", "✈️ Solo travel", "💻 Side projects", "🏋️ Gym"],
